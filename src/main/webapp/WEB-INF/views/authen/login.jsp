@@ -38,16 +38,7 @@
     </div>
     <button type="submit" class="form-submit">Đăng nhập</button>
   </form:form>
-  <script type="text/javascript">
-    function showErrorToast() {
-        toast({
-            title: "Thất bại!",
-            message: "Tài khoản hoặc mật khẩu sai. Vui lòng kiểm tra lại!",
-            type: "error",
-            duration: 5000
-        });
-    }
-</script>
+ 
 <script src= "../../Javascript/Toast_mes.js"></script>
 </div>
 
